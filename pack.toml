@@ -1,0 +1,13 @@
+name = "OCF Pack"
+author = "Nikhil Jha <njha@ocf.berkeley.edu>"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a7c5b5a584c83fbebce7066a56366f74285d3a08e32fcc568bc83ecd31f8318a"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"
